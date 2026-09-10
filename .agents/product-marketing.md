@@ -1,6 +1,6 @@
 # Product Marketing Context
 
-**Document version:** v2
+**Document version:** v3
 **Last updated:** 2026-09-10
 
 ## Product Overview
@@ -36,7 +36,7 @@
 **Emotional tension:** [ATT FYLLA I — osäkerhet kring storlek/passform vid onlineköp av sportkläder?]
 
 ## Competitive Landscape
-**Direct:** Få rena, dedikerade cykelklädesbutiker på den svenska marknaden — det här är en nyckelinsikt: nischen är relativt otät jämfört med t.ex. allmän sportkläder. Specifika namn ännu ej kartlagda [ATT FYLLA I när konkreta konkurrenter identifierats, t.ex. Bikester, Wiggle].
+**Direct:** Bikester.se och Wiggle.se — svenska/nordiska onlinebutiker med brett cykelkläder-sortiment över alla prissegment (budget till premium). Relativt få rena, dedikerade cykelklädesspecialister på den svenska marknaden totalt sett.
 **Secondary:** Stora generalist-sportkedjor (Stadium, XXL, Intersport) som har cykelkläder som en liten del av ett mycket bredare sortiment — bredd utan djup/specialisering
 **Indirect:** Köp direkt från AliExpress/internationella sajter utan svensk butiksfront, eller att helt avstå från specialiserad cykelutrustning och köpa vanliga träningskläder
 
@@ -49,7 +49,16 @@
 **Why that's better:** Kunden slipper leta i ett stort, ospecialiserat sortiment — allt är redan filtrerat till cykling, till ett lägre pris än att handla hos en specialist
 **Why customers choose us:** Prisvärdhet + nischfokus, i en marknad där det finns få rena alternativ, samtidigt som intresset för cykling växer i Sverige
 
-*Konkurrenternas namn och exakta prisjämförelser är fortfarande [ATT FYLLA I] — värt att göra en snabb research av 2–3 faktiska konkurrenters priser för att kunna backa upp "billigare" med siffror i marknadsföringen (annars blir påståendet svagt/overifierbart i annonstext).*
+**Verifierad prisjämförelse (research 2026-09-10):**
+| Produktkategori | Cykelbolaget | XXL | Bikester (ord. pris) |
+|---|---|---|---|
+| Cykeltröja | 359–499 kr | från 299 kr | 519–779 kr (budget-mellansegment) |
+| Bib shorts | 399–459 kr | — | Rogelli (budgetmärke): 630 kr |
+| Bib shorts, premium jämförelse | 399–459 kr | — | Assos: 1 589 kr |
+| Paket (tröja+shorts) | 799 kr | — | Motsvarar ofta bara EN produkt hos konkurrent till fullpris |
+
+**Slutsats:** Cykelbolagets bib shorts är ~25–35% billigare än Bikesters etablerade budgetmärke Rogelli (399–459 kr vs 630 kr), och radikalt billigare än premiumalternativ (Assos 1 589 kr). Cykeltröjorna ligger i linje med XXL:s ingångspris men klart under Bikesters ordinarie priser. Paketpriset (799 kr för tröja+shorts) slår i princip alla konkurrenters styckpris för en enda produkt.
+*(Källor: bikester.se, xxl.se — sep 2026. Priser förändras över tid, värt att uppdatera research kvartalsvis.)*
 
 ## Objections & Anti-Personas
 | Objection | Response |
@@ -90,7 +99,7 @@
 **Value themes:**
 | Theme | Proof |
 |-------|-------|
-| Prisvärdhet | Priser 99–799 kr, lägre än specialistbutiker (obekräftat, behöver jämförelsedata) |
+| Prisvärdhet | Bib shorts 399–459 kr vs Bikesters Rogelli 630 kr (~25–35% billigare, verifierat sep 2026); tröjor i linje med XXL:s ingångspris, under Bikesters ordinarie priser |
 | Bekvämlighet | Paket (tröja + shorts) för enkelt startköp |
 
 *Detta avsnitt fylls i naturligt när ni får första kunderna — värt att aktivt samla in recensioner/omdömen tidigt.*
@@ -102,5 +111,6 @@
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v3 (2026-09-10) — Lade till verifierad prisjämförelse mot Bikester och XXL (research via webbsök): bib shorts ~25–35% billigare än Bikesters budgetmärke Rogelli, tröjor i linje med/under konkurrenter. Uppdaterade Competitive Landscape med konkreta namn (Bikester, Wiggle) och Proof Points med siffersatta jämförelser.
 - v2 (2026-09-10) — Fyllde i Competitive Landscape, Differentiation och Switching Dynamics/Pull baserat på ägarens input: lägre pris, få dedikerade cykelklädesbutiker på marknaden, cykling trendigt i Sverige just nu. Konkurrenternas exakta namn/priser kvarstår som [ATT FYLLA I] för att kunna backa upp prisjämförelser med siffror.
 - v1 (2026-09-10) — Initial context, draftad från tidigare arbete i konversationen (produktkatalog, SEO-arbete, Meta Ads-uppsättning). Flera sektioner (konkurrenter, differentiering, kundspråk, proof points) saknar data eftersom butiken är helt nystartad — flaggade som [ATT FYLLA I].

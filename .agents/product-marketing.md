@@ -1,6 +1,6 @@
 # Product Marketing Context
 
-**Document version:** v1
+**Document version:** v2
 **Last updated:** 2026-09-10
 
 ## Product Overview
@@ -36,19 +36,20 @@
 **Emotional tension:** [ATT FYLLA I — osäkerhet kring storlek/passform vid onlineköp av sportkläder?]
 
 ## Competitive Landscape
-**Direct:** [ATT FYLLA I — svenska cykelklädesbutiker online, t.ex. Bikester, Wiggle, XXL:s cykelsortiment]
-**Secondary:** Stora sportkedjor med bredare men mindre cykelspecialiserat sortiment (Stadium, Intersport)
-**Indirect:** Köp direkt från AliExpress/internationella dropshipping-sajter utan svensk butiksfront
-
-*Detta avsnitt är ett utkast — fyll i faktiska konkurrenter du känner till, så kan copy/positionering skärpas mot dem.*
+**Direct:** Få rena, dedikerade cykelklädesbutiker på den svenska marknaden — det här är en nyckelinsikt: nischen är relativt otät jämfört med t.ex. allmän sportkläder. Specifika namn ännu ej kartlagda [ATT FYLLA I när konkreta konkurrenter identifierats, t.ex. Bikester, Wiggle].
+**Secondary:** Stora generalist-sportkedjor (Stadium, XXL, Intersport) som har cykelkläder som en liten del av ett mycket bredare sortiment — bredd utan djup/specialisering
+**Indirect:** Köp direkt från AliExpress/internationella sajter utan svensk butiksfront, eller att helt avstå från specialiserad cykelutrustning och köpa vanliga träningskläder
 
 ## Differentiation
-**Key differentiators:** [ATT FYLLA I — vad gör Cykelbolaget annorlunda än andra svenska cykelklädesbutiker? Snabbare leverans? Bättre priser? Enklare storleksguide?]
-**How we do it differently:** [ATT FYLLA I]
-**Why that's better:** [ATT FYLLA I]
-**Why customers choose us:** [ATT FYLLA I]
+**Key differentiators:**
+- Lägre pris än konkurrenter (specialistbutiker och generalistkedjors cykelsortiment)
+- Renodlad specialisering på cykelkläder specifikt, i en marknad med få dedikerade aktörer — de flesta svenska butiker som säljer cykelkläder gör det som en bisak till ett bredare sportsortiment
+- Timing: cykling är på tydlig uppåtgående trend i Sverige just nu — ökad efterfrågan och sökvolym att fånga in tidigt
+**How we do it differently:** Ett fokuserat sortiment byggt enbart kring cykling (tröjor, shorts, tillbehör) istället för att vara "sport-allt-i-allo" med cykelkläder som en liten avdelning
+**Why that's better:** Kunden slipper leta i ett stort, ospecialiserat sortiment — allt är redan filtrerat till cykling, till ett lägre pris än att handla hos en specialist
+**Why customers choose us:** Prisvärdhet + nischfokus, i en marknad där det finns få rena alternativ, samtidigt som intresset för cykling växer i Sverige
 
-*Detta är den viktigaste luckan att fylla — utan tydlig differentiering blir all copy generisk. Se separat rekommendation nedan.*
+*Konkurrenternas namn och exakta prisjämförelser är fortfarande [ATT FYLLA I] — värt att göra en snabb research av 2–3 faktiska konkurrenters priser för att kunna backa upp "billigare" med siffror i marknadsföringen (annars blir påståendet svagt/overifierbart i annonstext).*
 
 ## Objections & Anti-Personas
 | Objection | Response |
@@ -61,7 +62,7 @@
 
 ## Switching Dynamics
 **Push:** Missnöje med priser/utbud i fysiska cykelbutiker eller begränsat sortiment i stora sportkedjor
-**Pull:** Bredare, cykelspecifikt sortiment till lägre pris än specialistbutiker
+**Pull:** Lägre pris kombinerat med ett renodlat cykelfokus, i en marknad där få butiker specialiserar sig enbart på cykelkläder — plus att cykling är trendigt i Sverige just nu, vilket gör fler mottagliga för att upptäcka en ny butik
 **Habit:** Vana att handla i etablerade kedjor (XXL, Stadium) eller hos internationella jättar (Wiggle, Decathlon)
 **Anxiety:** Osäkerhet kring storlek/passform, leveranstid och om butiken är pålitlig (ny, okänd butik)
 
@@ -101,4 +102,5 @@
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v2 (2026-09-10) — Fyllde i Competitive Landscape, Differentiation och Switching Dynamics/Pull baserat på ägarens input: lägre pris, få dedikerade cykelklädesbutiker på marknaden, cykling trendigt i Sverige just nu. Konkurrenternas exakta namn/priser kvarstår som [ATT FYLLA I] för att kunna backa upp prisjämförelser med siffror.
 - v1 (2026-09-10) — Initial context, draftad från tidigare arbete i konversationen (produktkatalog, SEO-arbete, Meta Ads-uppsättning). Flera sektioner (konkurrenter, differentiering, kundspråk, proof points) saknar data eftersom butiken är helt nystartad — flaggade som [ATT FYLLA I].
